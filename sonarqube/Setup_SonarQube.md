@@ -50,8 +50,7 @@ People who want to setup SonarQube and would like to integrate with Jenkins
 
 
 ## Additional Resources
-
- - [How to integrate SonarQube wih Jenkins](https://www.youtube.com/c/ValaxyTechnologies/videos)  
+ 
  
    
 ## 🔗 My Profile  
