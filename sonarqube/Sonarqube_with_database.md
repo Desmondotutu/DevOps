@@ -77,7 +77,7 @@ apt install net-tools
   ```
 
 1. Update sonar.properties with below information 
-  ```sh
+  ```bash
   sonar.jdbc.username=<sonar_database_username>
   sonar.jdbc.password=<sonar_database_password>
 
@@ -85,7 +85,7 @@ apt install net-tools
   #sonar.jdbc.password=admin
   #sonar.jdbc.url=jdbc:postgresql://localhost/sonarqube
   #sonar.search.javaOpts=-Xmx512m -Xms512m -XX:MaxDirectMemorySize=256m -XX:+HeapDumpOnOutOfMemoryError
-  ``
+  ```
 
 1. Create a `/etc/systemd/system/sonarqube.service` file start sonarqube service at the boot time 
   ```sh   
